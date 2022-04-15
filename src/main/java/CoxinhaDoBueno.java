@@ -10,7 +10,7 @@ public class CoxinhaDoBueno {
         double coxinhas = Double.parseDouble(inputSplit[0]);
         double participantes = Double.parseDouble(inputSplit[1]);
 
-            double media = Double.parseDouble(String.valueOf(coxinhas))/Double.parseDouble(String.valueOf(participantes));
+        double media = Double.parseDouble(String.valueOf(coxinhas))/Double.parseDouble(String.valueOf(participantes));
 
         System.out.printf("%.2f", media);
 
