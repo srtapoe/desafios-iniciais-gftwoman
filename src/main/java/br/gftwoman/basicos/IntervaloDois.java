@@ -1,3 +1,5 @@
+package br.gftwoman.basicos;
+
 import java.util.Scanner;
 
 public class IntervaloDois {
